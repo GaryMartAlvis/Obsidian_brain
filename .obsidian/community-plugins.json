@@ -2,7 +2,6 @@
   "media-extended",
   "3d-graph",
   "obsidian-day-planner",
-  "obsidian-kanban",
   "homepage",
   "obsidian-mind-map",
   "obsidian-task-progress-bar",
@@ -34,5 +33,6 @@
   "ytranscript",
   "obsidian-style-settings",
   "obsidian-checklist-plugin",
-  "obsidian-gpt"
+  "obsidian-gpt",
+  "obsidian-kanban"
 ]

@@ -1,3 +1,29 @@
+### Estructura de commit
+
+```bash
+Especifica el tipo de _commit_:  
+"Fix: " Un parche para un error  
+"Buil: " Inicialización y desarrollo de un proyecto
+"Feat: " La nueva característica que agregas a una aplicación en particular  
+"Test: " Todo lo relacionado con pruebas  
+"Docs: " Todo lo relacionado con documentación  
+"Chore: " Mantenimiento de código regular.
+"Style: " Características o actualizaciones relacionadas con estilos  
+"Update: " Actuliazaciones de contenido
+"Refactor: " Refactorizar una sección específica de la base de código  
+```
+
+### Pushear archivos locales a un repositorio nuevo en GitHub
+
+```bash
+git init
+git add .
+git commit -m 'Repository initialization'
+git branch -M main
+git remote add origin <url_repository_github>
+git push -u origin main
+```
+
 ### Lista de comandos
 
 ```bash
@@ -17,17 +43,6 @@ git fetch origin # Obtiene los cambios del repositorio remoto sin fusionarlos
 git diff # Muestra las diferencias entre cambios en el área de preparación y el directorio de trabajo
 git reset --hard # Deshace cambios locales
 git tag -a <nombre_etiq> -m "Mensaje Etiq" # Crea, lista o borra etiquetas
-```
-
-### Pushear archivos locales a un repositorio nuevo en GitHub
-
-```bash
-git init
-git add .
-git commit -m 'Repository initialization'
-git branch -M main
-git remote add origin <url_repository_github>
-git push -u origin main
 ```
 
 ### Creación y conexión de repositorio con GitHub
@@ -68,8 +83,7 @@ git config --global --list
     > git config --global core.editor "notepad"</>
 ```
 
-<details>
-<summary>Como hacer un Pull request</summary>
+### Como hacer un Pull request
 
 Pasos para realizar un pull request
 
@@ -86,11 +100,15 @@ Hacer un fork en GitHub significa crear una copia personal de un repositorio aje
 
 Step 2: Clona el repositorio en tu equipo
 
->>> git clone [URL_repositorio_original] 
+```bash
+git clone [URL_repositorio_original] 
+```
 
 Step 3: Crea un rama para los trabajar en ella en los cambios del**
 
->>> git checkout -b nombre-de-tu-rama
+```bash
+git checkout -b nombre-de-tu-rama
+```
 
 Step 4: Realizar cambios locales
 
@@ -98,12 +116,16 @@ Realiza los cambios que desees en tu rama local. Puedes agregar, modificar o eli
 
 Step 5: Hacer commit de los cambios
 
->>> git add .
->>> git commit -m "Mensaje descriptivo de tus cambios"
+```bash
+git add .
+git commit -m "Mensaje descriptivo de tus cambios"
+```
 
 Step 6: Subir cambios a tu repositorio Forked
 
->>> git push origin nombre-de-tu-rama
+```bash
+git push origin nombre-de-tu-rama
+```
 
 Step 7: Crear el pull request
 
@@ -125,5 +147,3 @@ Step 9: Crear el Pull Request
 Step 10: Espera la revisión y fusión**
 
 Los propietarios del repositorio original revisarán tus cambios. Puede haber comentarios, preguntas o solicitudes de ajustes. Una vez que tus cambios sean aceptados y fusionados, tu Pull Request estará cerrado.
-
-</details>

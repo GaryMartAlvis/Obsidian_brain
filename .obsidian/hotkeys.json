@@ -106,5 +106,13 @@
       ],
       "key": "="
     }
+  ],
+  "make-md:mk-blink": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
   ]
 }

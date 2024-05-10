@@ -12,3 +12,18 @@ FROM table1
 JOIN table2 ON table1.column_name = table2.column_name;
 ```
 
+### INNER JOIN
+```sql
+--CLAUSULA ON: Inner join de la tabla countries y economies union por el campo code
+SELECT c.code AS country_code, c.name, e.year, e.inflation_rate
+FROM countries AS c
+INNER JOIN economies AS e
+ON c.code = e.code;
+
+--CLAUSULA USING(): Inner join de la tabla presidents y prime_ministers unidas por el campo country
+SELECT p1.country, p1.continent, prime_minister, president
+FROM prime_ministers AS p1
+INNER JOIN presidents AS p2
+USING(country);
+```
+

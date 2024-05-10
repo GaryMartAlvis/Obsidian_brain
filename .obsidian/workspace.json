@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d077b6a67c6ca5ed",
+        "id": "d07d315321a1791e",
         "type": "tabs",
         "children": [
           {
-            "id": "2ce96216e28f900c",
+            "id": "6567ec8f6f0387ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "032d41dcba735510",
+            "id": "3e92145d542e9d2a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 246
   },
   "right": {
     "id": "adbcfcbf699438d8",
@@ -193,89 +193,95 @@
               "type": "gptModelSettings",
               "state": {}
             }
+          },
+          {
+            "id": "e7838c34dcaf679d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 298
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-planner:Timeline": false,
       "homepage:Open homepage": false,
-      "canvas:Crear nuevo lienzo": false,
-      "switcher:Abrir selector rápido": true,
       "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Abrir selector rápido": true,
       "daily-notes:Abrir la nota de hoy": true,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": true,
       "audio-recorder:Empezar/Parar de grabar": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "obsidian-day-planner:Timeline": false,
       "big-calendar:Big Calendar": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "quote-share:Share": false,
       "obsidian-extlnkhelper-plugin:Search External Links": false,
-      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
       "3d-graph:3D Graph": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "media-extended:Open media": true,
       "obsidian-projects:Open projects": false,
       "remotely-save:Remotely Save": true,
-      "obsidian-kanban:Create new board": false,
       "obsidian-textgenerator-plugin:Generate Text!": true,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+      "obsidian-kanban:Create new board": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "723f8b02680c5c2c",
+  "active": "6567ec8f6f0387ce",
   "lastOpenFiles": [
-    "200-Areas/Terminal/Git.md",
+    "200-Areas/Data/Relaciones de tablas.md",
+    "300-Resources/Attachments/Pasted image 20240510163259.png",
+    "300-Resources/Attachments/Pasted image 20240510162931.png",
+    "300-Resources/Attachments/Pasted image 20240510161909.png",
+    "200-Areas/Data/Clausulas Sql/JOIN.md",
+    "200-Areas/Data/Clausulas Sql/USING.md",
     "200-Areas/Data/Esquemas de base de datos.md",
+    "Sin título.md",
+    "300-Resources/Attachments/Pasted image 20240510153414.png",
+    "200-Areas/Programación.md",
+    "200-Areas/Terminal/Git.md",
+    "Important/Kanban.md",
+    "Daily/Daily notes/2024-05-13.md",
+    "Daily/Daily notes/Daily notes.md",
+    "Daily/Daily notes/2024-05-09.md",
+    "Daily/Daily notes/2024-05-12.md",
+    "Daily/Daily notes/2024-05-11.md",
+    "Daily/Daily notes/2024-05-10.md",
+    "300-Resources/Moodboard/Tablaro de crédito corregido.excalidraw",
+    "200-Areas/Backend/Django.md",
+    "300-Resources/Moodboard/Diagrama seguro de trabajo con Power Automate Desktop en  .excalidraw.md",
+    "300-Resources/Attachments/Pasted Image 20240502153515_647.png",
+    "200-Areas/Data/Clausulas Sql/SELECT.md",
     "200-Areas/Data/Clausulas Sql/Clausulas de selección.md",
+    "300-Resources/Moodboard/05-04 Sesión de resolución de dudas con Ascential.excalidraw",
+    "Important/Checklist.md",
+    "Vault.md",
     "200-Areas/Data/Clausulas Sql/Clausulas de ordenamiento y limitación.md",
     "200-Areas/Data/Clausulas Sql/Clausulas de definición de tablas.md",
     "200-Areas/Data/Data.md",
     "200-Areas/Data/Clausulas Sql/SQL.md",
-    "Sin título.md",
     "test note.md",
-    "Daily/Daily notes/Daily notes.md",
-    "200-Areas/Automation/RPA/Power Automate.md",
     "300-Resources/Moodboard/API-Whatsapp-EnvíoMasivo.excalidraw",
     "200-Areas/Automation/RPA",
     "200-Areas/Automation",
-    "300-Resources/Moodboard/Postulación Becario AZFounders.md",
     "300-Resources/Moodboard/Drawing 2024-05-02 15.34.45.excalidraw.png",
     "300-Resources/Moodboard/Becarios AZ Founders.excalidraw",
     "300-Resources/Moodboard/APPWeb-SuperQuimica.excalidraw",
-    "300-Resources/Moodboard/05-04 Sesión de resolución de dudas con Ascential.excalidraw",
     "300-Resources/Attachments/Pasted Image 20240502153838_704.png",
     "300-Resources/Attachments/Pasted Image 20240502153538_364.png",
-    "300-Resources/Attachments/Pasted Image 20240502153515_647.png",
-    "200-Areas/Organization/PKM.md",
-    "200-Areas/Organization/Organización.md",
     "200-Areas/Organization",
     "200-Areas/Nueva carpeta",
-    "200-Areas/Backend/Backend.md",
-    "200-Areas/Backend/Django.md",
-    "200-Areas/Backend/Arquiterctura.md",
     "200-Areas/Backend",
-    "200-Areas/Programación.md",
-    "200-Areas/Entrevista técnica.md",
-    "200-Areas/Terminal/Terminal.md",
-    "200-Areas/Terminal/PowerShell.md",
-    "200-Areas/Terminal/Pip.md",
-    "200-Areas/Terminal/Ambientes virtuales.md",
-    "200-Areas/Terminal",
-    "200-Areas/Script/Script image to string.md",
-    "200-Areas/Languages/Python.md",
-    "200-Areas/Languages/Lenguaje.md",
     "300-Resources/Attachments/PKM.png",
     "300-Resources/Attachments/Pasted image 20240509104652.png",
-    "300-Resources/Attachments/Pasted Image 20240507094329_803.png",
-    "300-Resources/Attachments/Pasted image 20240506104945.png",
-    "300-Resources/Attachments/Pasted image 20240506104517.png",
-    "300-Resources/Attachments/MVT.png",
     "Untitled.canvas",
     "Other /Untitled.canvas",
     "Prospecting/Prospects.canvas",

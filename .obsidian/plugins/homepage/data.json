@@ -12,8 +12,8 @@
       "autoCreate": true,
       "autoScroll": false,
       "pin": true,
-      "value": "Home",
-      "kind": "Nothing",
+      "value": "Important/Kanban",
+      "kind": "File",
       "commands": []
     }
   },
