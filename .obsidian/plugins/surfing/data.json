@@ -1,0 +1,64 @@
+{
+  "defaultSearchEngine": "google",
+  "customSearchEngine": [
+    {
+      "name": "Calandar",
+      "url": "https://contacts.google.com/widget/hovercard/v/2?hl=en&origin=https%3A%2F%2Fcalendar.google.com&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.3R2S2iMRC9o.O%2Fd%3D1%2Frs%3DAHpOoo8-ukmJKpOYaCGRb909wNTowBRXFA%2Fm%3D__features__#id=__HC_94253229&_gfid=__HC_94253229&parent=https%3A%2F%2Fcalendar.google.com&pfname=&rpctoken=65341673"
+    }
+  ],
+  "hoverPopover": true,
+  "ignoreList": [
+    "notion",
+    "craft"
+  ],
+  "alwaysShowCustomSearch": true,
+  "showOtherSearchEngines": false,
+  "showSearchBarInPage": true,
+  "markdownPath": "/",
+  "customHighlightFormat": false,
+  "highlightFormat": "[{CONTENT}]({URL})",
+  "highlightInSameTab": false,
+  "openInSameTab": true,
+  "showRefreshButton": true,
+  "openInObsidianWeb": true,
+  "useCustomIcons": false,
+  "useWebview": false,
+  "useIconList": true,
+  "darkMode": false,
+  "randomBackground": false,
+  "lastOpenedFiles": false,
+  "bookmarkManager": {
+    "openBookMark": false,
+    "saveBookMark": true,
+    "sendToReadWise": false,
+    "pagination": "12",
+    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n",
+    "defaultCategory": "ROOT",
+    "defaultColumnList": [
+      "name",
+      "description",
+      "url",
+      "category",
+      "tags",
+      "created",
+      "modified",
+      "action"
+    ],
+    "defaultFilterType": "tree"
+  },
+  "treeData": [
+    {
+      "id": "b6ae86795834f909",
+      "parent": 0,
+      "droppable": true,
+      "text": "ChatGPT",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
+  "enableHtmlPreview": true,
+  "supportLivePreviewInlineUrl": false
+}

@@ -1,0 +1,18 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "Daily/Daily notes/2023-03-18.md",
+    "checklist!.md"
+  ],
+  "_hiddenTags": []
+}

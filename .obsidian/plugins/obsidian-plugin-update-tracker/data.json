@@ -1,0 +1,27 @@
+{
+  "daysToSuppressNewUpdates": 0,
+  "dismissedVersionsByPluginId": {
+    "calendar": {
+      "pluginId": "calendar",
+      "pluginRepoPath": "liamcain/obsidian-calendar-plugin",
+      "dismissedVersions": [
+        {
+          "versionNumber": "2.0.0-beta.1",
+          "versionName": "2.0.0-beta",
+          "publishedAt": "2021-04-11T23:00:11Z"
+        },
+        {
+          "versionNumber": "2.0.0-beta.2",
+          "versionName": "2.0.0-beta.2",
+          "publishedAt": "2021-04-20T18:50:01Z"
+        }
+      ]
+    }
+  },
+  "showIconOnMobile": true,
+  "excludeBetaVersions": false,
+  "excludeDisabledPlugins": false,
+  "minUpdateCountToShowIcon": 1,
+  "hoursBetweenCheckingForUpdates": 0.5,
+  "hideIconIfNoUpdatesAvailable": true
+}

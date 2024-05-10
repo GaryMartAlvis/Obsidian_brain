@@ -1,0 +1,7 @@
+[[Backend]]
+[[Frontend]]
+[[Data]]
+[[Lenguaje]]
+[[IA]]
+[[Automation]]
+[[Movil]]

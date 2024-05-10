@@ -1,0 +1,72 @@
+{
+  "bookmarks": [
+    {
+      "id": "1591704236",
+      "name": "Google Calendar - 4 days, starting Monday, February 20, 2023",
+      "url": "https://contacts.google.com/widget/hovercard/v/2?hl=en&origin=https%3A%2F%2Fcalendar.google.com&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.3R2S2iMRC9o.O%2Fd%3D1%2Frs%3DAHpOoo8-ukmJKpOYaCGRb909wNTowBRXFA%2Fm%3D__features__#id=__HC_94253229&_gfid=__HC_94253229&parent=https%3A%2F%2Fcalendar.google.com&pfname=&rpctoken=42345189",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1676877517379,
+      "modified": 1676877517379
+    },
+    {
+      "id": "911585132",
+      "name": "Google Calendar - 4 days, starting Monday, February 20, 2023",
+      "url": "https://contacts.google.com/widget/hovercard/v/2?hl=en&origin=https%3A%2F%2Fcalendar.google.com&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.3R2S2iMRC9o.O%2Fd%3D1%2Frs%3DAHpOoo8-ukmJKpOYaCGRb909wNTowBRXFA%2Fm%3D__features__#id=__HC_94253229&_gfid=__HC_94253229&parent=https%3A%2F%2Fcalendar.google.com&pfname=&rpctoken=17704221",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1676877285930,
+      "modified": 1676877285930
+    },
+    {
+      "id": "1109730299",
+      "name": "calendar - Google Search",
+      "url": "https://www.google.com/uviewer?q=calendar&origin=https%3A%2F%2Fwww.google.com",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1676877214232,
+      "modified": 1676877214232
+    },
+    {
+      "id": "-850213039",
+      "name": "Google Calendar - 4 days, starting Monday, February 20, 2023",
+      "url": "https://contacts.google.com/widget/hovercard/v/2?hl=en&origin=https%3A%2F%2Fcalendar.google.com&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.3R2S2iMRC9o.O%2Fd%3D1%2Frs%3DAHpOoo8-ukmJKpOYaCGRb909wNTowBRXFA%2Fm%3D__features__#id=__HC_94253229&_gfid=__HC_94253229&parent=https%3A%2F%2Fcalendar.google.com&pfname=&rpctoken=65341673",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1676877042218,
+      "modified": 1676877042218
+    },
+    {
+      "id": "2014068036",
+      "name": "Obsidian",
+      "url": "https://obsidian.md/",
+      "description": "A awesome note-taking tool",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1672840861051,
+      "modified": 1672840861052
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

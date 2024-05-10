@@ -1,0 +1,106 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Searchable Brain/brain scout",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 351
+              },
+              "name": {
+                "hide": false
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "path",
+                  "operator": "is-empty"
+                }
+              },
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "name",
+                  "operator": "is-not-empty"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9cb5a4b8-70bf-4f7e-a259-f5a6b149aeef",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "d639c826-4118-4671-bb6c-6bc4e0fcf491",
+      "name": "Brain Tracker"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "BKT",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "33b69a9b-fe73-432c-bf47-fcda2fd2eb7a",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "26605a1e-a1d4-417f-b266-e64513f09445",
+      "name": "BKT"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "calendar:open-weekly-note": [],
+  "fantasy-calendar:open-fantasy-calendar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "media-extended:open-media-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "homepage:open-homepage": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "obsidian-mind-map:app:markmap-preview": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "media-extended:get-timestamp": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-day-planner:app:add-day-planner-to-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-transcription:obsidian-transcription-transcribe-all-in-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "markdown-table-editor:markdown-table-editor-open-horizontal": [],
+  "markdown-table-editor:markdown-table-editor-open-vertical": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "M"
+    }
+  ],
+  "surfing:usinggoogle-to-search": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "quote-of-the-day:qotd-random": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-extlnkhelper-plugin:open-ext-link-viewer": [],
+  "obsidian-minimal-settings:toggle-minimal-notion-light": [],
+  "multi-line-formatting:multi-line-format-cyan-highlight": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "F"
+    }
+  ],
+  "ytranscript:fetch-transcript": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-gpt:chat-completion": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ]
+}

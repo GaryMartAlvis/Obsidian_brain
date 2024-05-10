@@ -1,0 +1,1 @@
+[[Programación]] | [[Ambientes virtuales]], [[Pip]], [[Git]], [[PowerShell]], [[Python]]

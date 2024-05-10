@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "baseFontSize": 12,
+  "enabledCssSnippets": [
+    "custom-icons-differing-files-and-folders"
+  ]
+}

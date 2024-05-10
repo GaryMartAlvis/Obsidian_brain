@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-extlnkhelper-plugin",
+	"name": "External Link Helper",
+	"version": "0.8.0",
+	"minAppVersion": "0.15.0",
+	"description": "This is a plugin for making entering external links easier.",
+	"author": "Jhonghee Park",
+	"authorUrl": "https://github.com/nakalsio/obsidian-danpung",
+	"isDesktopOnly": false
+}
