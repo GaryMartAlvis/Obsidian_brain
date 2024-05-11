@@ -4,20 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "d07d315321a1791e",
+        "id": "db32730acf04c0b0",
         "type": "tabs",
         "children": [
           {
-            "id": "6567ec8f6f0387ce",
+            "id": "1cdb80518b6b8736",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=5EHqpiw50j8&list=RDEMSOgqHcrxBm6S3koKYBarKg&index=4"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "879f5c7d5f15c1a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200-Areas/Terminal/Git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -75,18 +82,18 @@
             }
           },
           {
-            "id": "faadca43d432312a",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {}
-            }
-          },
-          {
             "id": "3e92145d542e9d2a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "abb6cdeb94408bd9",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
               "state": {}
             }
           }
@@ -110,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-Areas/Terminal/Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200-Areas/Terminal/Git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "200-Areas/Terminal/Git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -235,8 +238,12 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "6567ec8f6f0387ce",
+  "active": "1cdb80518b6b8736",
   "lastOpenFiles": [
+    "Sin título.md",
+    "Daily/Daily notes/2024-05-20.md",
+    "300-Resources/Moodboard/Postulación Becario AZFounders.md",
+    "200-Areas/Terminal/Git.md",
     "200-Areas/Data/Relaciones de tablas.md",
     "300-Resources/Attachments/Pasted image 20240510163259.png",
     "300-Resources/Attachments/Pasted image 20240510162931.png",
@@ -244,10 +251,8 @@
     "200-Areas/Data/Clausulas Sql/JOIN.md",
     "200-Areas/Data/Clausulas Sql/USING.md",
     "200-Areas/Data/Esquemas de base de datos.md",
-    "Sin título.md",
     "300-Resources/Attachments/Pasted image 20240510153414.png",
     "200-Areas/Programación.md",
-    "200-Areas/Terminal/Git.md",
     "Important/Kanban.md",
     "Daily/Daily notes/2024-05-13.md",
     "Daily/Daily notes/Daily notes.md",
@@ -268,7 +273,6 @@
     "200-Areas/Data/Clausulas Sql/Clausulas de definición de tablas.md",
     "200-Areas/Data/Data.md",
     "200-Areas/Data/Clausulas Sql/SQL.md",
-    "test note.md",
     "300-Resources/Moodboard/API-Whatsapp-EnvíoMasivo.excalidraw",
     "200-Areas/Automation/RPA",
     "200-Areas/Automation",
