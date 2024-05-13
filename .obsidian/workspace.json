@@ -10,24 +10,28 @@
           {
             "id": "1cdb80518b6b8736",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.youtube.com/watch?v=5EHqpiw50j8&list=RDEMSOgqHcrxBm6S3koKYBarKg&index=4"
-              },
-              "pinned": true
+                "url": "https://www.youtube.com/watch?v=G3M04bhIRK4&list=RDEMSOgqHcrxBm6S3koKYBarKg&index=9"
+              }
             }
           },
           {
-            "id": "879f5c7d5f15c1a3",
+            "id": "94f702ef19ab3b9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "200-Areas/Data/Clausulas Sql/JOIN.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "200-Areas/Data/Clausulas Sql/JOIN.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "200-Areas/Data/Clausulas Sql/JOIN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "200-Areas/Data/Clausulas Sql/JOIN.md"
+              }
             }
           },
           {
@@ -232,14 +240,23 @@
       "media-extended:Open media": true,
       "obsidian-projects:Open projects": false,
       "remotely-save:Remotely Save": true,
-      "obsidian-textgenerator-plugin:Generate Text!": true,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
       "obsidian-kanban:Create new board": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "1cdb80518b6b8736",
+  "active": "94f702ef19ab3b9a",
   "lastOpenFiles": [
+    "300-Resources/Attachments/Pasted image 20240513161808.png",
+    "300-Resources/Attachments/Pasted image 20240513160622.png",
+    "200-Areas/Data/Clausulas Sql/JOIN.md",
+    "300-Resources/Attachments/Pasted image 20240513161737.png",
+    "300-Resources/Attachments/Pasted image 20240513161222.png",
+    "300-Resources/Attachments/Pasted image 20240513161043.png",
+    "300-Resources/Attachments/Pasted image 20240513155821.png",
+    "300-Resources/Moodboard/Diagrama seguro de trabajo con Power Automate Desktop en  .excalidraw.md",
+    "Daily/Daily notes/2024-05-14.md",
     "Sin título.md",
     "Daily/Daily notes/2024-05-20.md",
     "300-Resources/Moodboard/Postulación Becario AZFounders.md",
@@ -248,13 +265,11 @@
     "300-Resources/Attachments/Pasted image 20240510163259.png",
     "300-Resources/Attachments/Pasted image 20240510162931.png",
     "300-Resources/Attachments/Pasted image 20240510161909.png",
-    "200-Areas/Data/Clausulas Sql/JOIN.md",
     "200-Areas/Data/Clausulas Sql/USING.md",
     "200-Areas/Data/Esquemas de base de datos.md",
     "300-Resources/Attachments/Pasted image 20240510153414.png",
     "200-Areas/Programación.md",
     "Important/Kanban.md",
-    "Daily/Daily notes/2024-05-13.md",
     "Daily/Daily notes/Daily notes.md",
     "Daily/Daily notes/2024-05-09.md",
     "Daily/Daily notes/2024-05-12.md",
@@ -262,7 +277,6 @@
     "Daily/Daily notes/2024-05-10.md",
     "300-Resources/Moodboard/Tablaro de crédito corregido.excalidraw",
     "200-Areas/Backend/Django.md",
-    "300-Resources/Moodboard/Diagrama seguro de trabajo con Power Automate Desktop en  .excalidraw.md",
     "300-Resources/Attachments/Pasted Image 20240502153515_647.png",
     "200-Areas/Data/Clausulas Sql/SELECT.md",
     "200-Areas/Data/Clausulas Sql/Clausulas de selección.md",
@@ -272,20 +286,14 @@
     "200-Areas/Data/Clausulas Sql/Clausulas de ordenamiento y limitación.md",
     "200-Areas/Data/Clausulas Sql/Clausulas de definición de tablas.md",
     "200-Areas/Data/Data.md",
-    "200-Areas/Data/Clausulas Sql/SQL.md",
     "300-Resources/Moodboard/API-Whatsapp-EnvíoMasivo.excalidraw",
     "200-Areas/Automation/RPA",
     "200-Areas/Automation",
-    "300-Resources/Moodboard/Drawing 2024-05-02 15.34.45.excalidraw.png",
     "300-Resources/Moodboard/Becarios AZ Founders.excalidraw",
     "300-Resources/Moodboard/APPWeb-SuperQuimica.excalidraw",
-    "300-Resources/Attachments/Pasted Image 20240502153838_704.png",
-    "300-Resources/Attachments/Pasted Image 20240502153538_364.png",
     "200-Areas/Organization",
     "200-Areas/Nueva carpeta",
     "200-Areas/Backend",
-    "300-Resources/Attachments/PKM.png",
-    "300-Resources/Attachments/Pasted image 20240509104652.png",
     "Untitled.canvas",
     "Other /Untitled.canvas",
     "Prospecting/Prospects.canvas",

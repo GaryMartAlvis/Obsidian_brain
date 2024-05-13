@@ -1,5 +1,5 @@
 {
-  "version": "0.7.17-beta",
+  "version": "0.7.18-beta",
   "endpoint": "https://api.openai.com/v1",
   "models": {},
   "api_key": "",
