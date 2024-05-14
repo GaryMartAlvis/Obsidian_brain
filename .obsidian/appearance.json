@@ -2,8 +2,9 @@
   "accentColor": "",
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
-  "baseFontSize": 12,
+  "baseFontSize": 17,
   "enabledCssSnippets": [
     "custom-icons-differing-files-and-folders"
-  ]
+  ],
+  "baseFontSizeAction": true
 }

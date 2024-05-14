@@ -46,19 +46,7 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "1cdb80518b6b8736",
-      "parent": 0,
-      "droppable": true,
-      "text": "Teddy Swims - Devil in a Dress (Live) - YouTube",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ],
+  "treeData": [],
   "enableHtmlPreview": true,
   "supportLivePreviewInlineUrl": false
 }
