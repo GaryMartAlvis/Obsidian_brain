@@ -24,6 +24,17 @@ git remote add origin <url_repository_github>
 git push -u origin main
 ```
 
+### Actualizar tu repositorio
+
+```bash
+# Actualizar repositorio local
+git pull
+
+# Actualizar repositorio local contenido del repositorio remoto y sobrescribir los cambios en la carpeta local
+git fetch origin
+git reset --hard origin main
+```
+
 ### Lista de comandos
 
 ```bash
