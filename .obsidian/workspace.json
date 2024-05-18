@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d07d315321a1791e",
+        "id": "f77b559aa6920f84",
         "type": "tabs",
         "children": [
           {
-            "id": "6567ec8f6f0387ce",
+            "id": "85264871247e0518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-Areas/Terminal/Git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d908ed15e1c58c6",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=AeedWEyMYYo"
-              }
-            }
-          },
-          {
-            "id": "4399204fc6f19964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-Projects/WebApps/ToDo-Apps/README.md",
+                "file": "Formulas del lenguaje M - Power Query.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -134,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-Projects/WebApps/ToDo-Apps/README.md",
+                "file": "Formulas del lenguaje M - Power Query.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100-Projects/WebApps/ToDo-Apps/README.md",
+                "file": "Formulas del lenguaje M - Power Query.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-Projects/WebApps/ToDo-Apps/README.md"
+                "file": "Formulas del lenguaje M - Power Query.md"
               }
             }
           },
@@ -219,7 +196,7 @@
             }
           },
           {
-            "id": "2ed545197da016cf",
+            "id": "a332a1b71be620c6",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -231,36 +208,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325
+    "width": 325,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
+      "remotely-save:Remotely Save": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": true,
       "daily-notes:Abrir la nota de hoy": true,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": true,
-      "audio-recorder:Empezar/Parar de grabar": false,
+      "audio-recorder:Empezar/Parar de grabar": true,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "media-extended:Open media": true,
       "3d-graph:3D Graph": false,
-      "media-extended:Open media": false,
       "obsidian-day-planner:Timeline": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "big-calendar:Big Calendar": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-textgenerator-plugin:Generate Text!": true,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "quote-share:Share": false,
-      "obsidian-extlnkhelper-plugin:Search External Links": false,
+      "quote-share:Share": true,
+      "obsidian-extlnkhelper-plugin:Search External Links": true,
       "obsidian-projects:Open projects": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4399204fc6f19964",
+  "active": "85264871247e0518",
   "lastOpenFiles": [
+    "300-Resources/Attachments/Pasted image 20240517164514.png",
+    "300-Resources/Attachments/Pasted image 20240517164056.png",
+    "300-Resources/Attachments/Pasted image 20240517163651.png",
+    "Moodboard/Drawing 2024-05-16 11.26.24.excalidraw.md",
+    "Formulas del lenguaje M - Power Query.md",
+    "200-Areas/Excel",
+    "Untitled Kanban.md",
+    "200-Areas/Data/Clausulas Sql/JOIN.md",
+    "Moodboard/Seguridad - Diagrama seguro de trabajo con Power Automate Desktop en  .excalidraw.md",
+    "200-Areas/Terminal/Git.md",
+    "Tags",
     "100-Projects/WebApps/ToDo-Apps/todo_list/db.sqlite3-journal",
     "100-Projects/WebApps/ToDo-Apps/todo_list/base/migrations/__pycache__/0001_initial.cpython-311.pyc",
     "100-Projects/WebApps/ToDo-Apps/todo_list/base/migrations/0001_initial.py",
@@ -269,9 +258,6 @@
     "100-Projects/WebApps/ToDo-Apps/todo_list/base/migrations/__pycache__",
     "100-Projects/WebApps/ToDo-Apps/todo_list/base/__pycache__/urls.cpython-311.pyc",
     "100-Projects/WebApps/ToDo-Apps/todo_list/base/__pycache__/apps.cpython-311.pyc",
-    "100-Projects/WebApps/ToDo-Apps/todo_list/base/__pycache__/__init__.cpython-311.pyc",
-    "100-Projects/WebApps/ToDo-Apps/todo_list/base/__pycache__",
-    "100-Projects/WebApps/ToDo-Apps/todo_list/base/migrations/__init__.py",
     "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/gis/static/gis/img/draw_polygon_on.svg",
     "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/gis/static/gis/img/draw_polygon_off.svg",
     "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/gis/static/gis/img/draw_point_on.svg",
@@ -282,18 +268,12 @@
     "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/admin/static/admin/css/vendor/select2/LICENSE-SELECT2.md",
     "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/admin/static/admin/img/gis/move_vertex_on.svg",
     "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/admin/static/admin/img/gis/move_vertex_off.svg",
-    "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/admin/static/admin/img/tooltag-arrowright.svg",
-    "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/admin/static/admin/img/tooltag-add.svg",
     "100-Projects/WebApps/ToDo-Apps/README.md",
-    "200-Areas/Terminal/Git.md",
-    "200-Areas/Data/Clausulas Sql/JOIN.md",
     "Moodboard/Tablero de crédito - Estandarización de planilla de metas.excalidraw.md",
-    "Moodboard/Seguridad - Diagrama seguro de trabajo con Power Automate Desktop en  .excalidraw.md",
     "Moodboard/Postulación Becario AZFounders.md",
     "200-Areas/Data/Relaciones de tablas.md",
     "200-Areas/Data/Esquemas de base de datos.md",
     "200-Areas/Data/Clausulas Sql/USING.md",
-    "Sin título.md",
     "200-Areas/Programación.md",
     "Important/Kanban.md",
     "Daily/Daily notes/2024-05-13.md",
@@ -305,8 +285,6 @@
     "200-Areas/Backend/Django.md",
     "300-Resources/Moodboard/Diagrama seguro de trabajo con Power Automate Desktop en  .excalidraw.md",
     "200-Areas/Data/Clausulas Sql/SELECT.md",
-    "200-Areas/Data/Clausulas Sql/Clausulas de selección.md",
-    "Important/Checklist.md",
     "Untitled.canvas",
     "Other /Untitled.canvas",
     "Prospecting/Prospects.canvas",

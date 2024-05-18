@@ -1890,8 +1890,8 @@ OAh66cOI: [[On-Premise]]
 		},
 		{
 			"type": "rectangle",
-			"version": 447,
-			"versionNonce": 548898783,
+			"version": 448,
+			"versionNonce": 155849381,
 			"index": "ac",
 			"isDeleted": false,
 			"id": "sjE4_lhOJVWqoWd6SaNKD",
@@ -1902,7 +1902,7 @@ OAh66cOI: [[On-Premise]]
 			"opacity": 100,
 			"angle": 0,
 			"x": 33.16196241461341,
-			"y": 472.7105656537553,
+			"y": 472.71056565375534,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#b2f2bb",
 			"width": 283.9999653661918,
@@ -1919,14 +1919,14 @@ OAh66cOI: [[On-Premise]]
 					"id": "a30t9oTT"
 				}
 			],
-			"updated": 1715701986828,
+			"updated": 1715781585239,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 358,
-			"versionNonce": 1230582783,
+			"version": 359,
+			"versionNonce": 1041921541,
 			"index": "ad",
 			"isDeleted": false,
 			"id": "a30t9oTT",
@@ -1937,7 +1937,7 @@ OAh66cOI: [[On-Premise]]
 			"opacity": 100,
 			"angle": 0,
 			"x": 63.12997793462338,
-			"y": 495.1421982430131,
+			"y": 495.1421982430132,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#b2f2bb",
 			"width": 224.06393432617188,
@@ -1947,7 +1947,7 @@ OAh66cOI: [[On-Premise]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715701986828,
+			"updated": 1715781585239,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2550,7 +2550,7 @@ OAh66cOI: [[On-Premise]]
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1971c2",
 		"currentItemBackgroundColor": "transparent",
@@ -2564,8 +2564,8 @@ OAh66cOI: [[On-Premise]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 593.2957352146211,
-		"scrollY": 373.59545169294466,
+		"scrollX": 523.3684169884141,
+		"scrollY": 218.07126928660568,
 		"zoom": {
 			"value": 0.5
 		},
