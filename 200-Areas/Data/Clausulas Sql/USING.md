@@ -1,4 +1,4 @@
-[[JOIN]]
+[[UNIONES DE TABLAS]]
 
 La cláusula USING se utiliza seguida la cláusula JOIN del nombre de la columna compartida entre paréntesis.
 

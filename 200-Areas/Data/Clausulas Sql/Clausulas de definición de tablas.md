@@ -1,4 +1,4 @@
-[[SQL]] | [[FROM]], [[JOIN]], [[WHERE]], [[GROUP BY]], [[HAVING]] 
+[[SQL]] | [[FROM]], [[UNIONES DE TABLAS]], [[WHERE]], [[GROUP BY]], [[HAVING]] 
 
 Las cláusulas de definición de tablas permiten especificar las fuentes de datos, combinar tablas, aplicar filtros y realizar operaciones de agrupación en tus consultas.
 

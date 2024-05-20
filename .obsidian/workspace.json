@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas del lenguaje M - Power Query.md",
+                "file": "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas del lenguaje M - Power Query.md",
+                "file": "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas del lenguaje M - Power Query.md",
+                "file": "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas del lenguaje M - Power Query.md"
+                "file": "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md"
               }
             }
           },
@@ -239,14 +238,17 @@
   },
   "active": "85264871247e0518",
   "lastOpenFiles": [
+    "300-Resources/Attachments/Pasted image 20240519112146.png",
+    "300-Resources/Attachments/Pasted image 20240519111947.png",
+    "300-Resources/Attachments/Pasted image 20240519111445.png",
+    "Formulas del lenguaje M - Power Query.md",
     "300-Resources/Attachments/Pasted image 20240517164514.png",
     "300-Resources/Attachments/Pasted image 20240517164056.png",
     "300-Resources/Attachments/Pasted image 20240517163651.png",
     "Moodboard/Drawing 2024-05-16 11.26.24.excalidraw.md",
-    "Formulas del lenguaje M - Power Query.md",
     "200-Areas/Excel",
     "Untitled Kanban.md",
-    "200-Areas/Data/Clausulas Sql/JOIN.md",
+    "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md",
     "Moodboard/Seguridad - Diagrama seguro de trabajo con Power Automate Desktop en  .excalidraw.md",
     "200-Areas/Terminal/Git.md",
     "Tags",
@@ -263,11 +265,8 @@
     "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/gis/static/gis/img/draw_point_on.svg",
     "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/gis/static/gis/img/draw_point_off.svg",
     "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/gis/static/gis/img/draw_line_on.svg",
-    "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/gis/static/gis/img/draw_line_off.svg",
     "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/select2/LICENSE.md",
     "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/admin/static/admin/css/vendor/select2/LICENSE-SELECT2.md",
-    "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/admin/static/admin/img/gis/move_vertex_on.svg",
-    "100-Projects/WebApps/ToDo-Apps/venv/Lib/site-packages/django/contrib/admin/static/admin/img/gis/move_vertex_off.svg",
     "100-Projects/WebApps/ToDo-Apps/README.md",
     "Moodboard/Tablero de crédito - Estandarización de planilla de metas.excalidraw.md",
     "Moodboard/Postulación Becario AZFounders.md",

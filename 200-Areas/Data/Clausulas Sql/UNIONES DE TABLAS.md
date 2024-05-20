@@ -1,6 +1,6 @@
 [[Clausulas de definición de tablas]] | [[USING]]
 
-## TIPO DE UNIONES
+## UNIONES
 La cláusula `JOIN` se utiliza para combinar filas de dos o más tablas en función de una condición de unión. Puedes usar diferentes tipos de `JOIN` según el tipo de combinación que necesites.
 La cláusula `ON` se utiliza junto con `JOIN` para especificar la condición de unión entre las tablas. Define cómo se relacionan las filas de una tabla con las filas de otra tabla en la combinación.
 
@@ -17,10 +17,10 @@ FROM table1
 JOIN table2 ON table1.column_name = table2.column_name;
 ```
 
----
 
+---
 ## UNIONES EXTERNAS
-### INNER JOIN
+###     1. INNER JOIN
 
 **Combinación externa**
 La cláusula `INNER JOIN` en SQL se utiliza para combinar filas de dos o más tablas en base a una condición de unión. Cuando se usa `INNER JOIN`, solo se devuelven las filas que tienen una coincidencia en las tablas que se están uniendo según la condición especificada.
@@ -57,7 +57,7 @@ AND e.year = p.year;
 
 ---
 
-### LEFT JOIN
+###     2. LEFT JOIN
 
 **Combinación externa**
 Esta clausula realiza uniones de tablas uniendo la totalidad de la tabla de la izquierda y solo las coincidencias de la tabla de la derecha. 
@@ -67,7 +67,7 @@ Esta clausula realiza uniones de tablas uniendo la totalidad de la tabla de la i
 
 ---
 
-### RIGHT JOIN
+###     3. RIGHT JOIN
 
 **Combinación externa**
 Esta clausula realiza uniones de tablas con la totalidad de los datos de la tabla derecha y solo las coincidencias de la tabla izquierda.
@@ -76,7 +76,7 @@ Esta clausula realiza uniones de tablas con la totalidad de los datos de la tabl
 
 ---
 
-### FULL JOIN
+###     4. FULL JOIN
 
 **Combinación externa**
 Esta clausula combina la unión izquierda y una unión derecha para formar una unión completa.
@@ -116,8 +116,9 @@ USING(code)
 WHERE region LIKE 'M%esia';
 ```
 
+---
 ## UNIONES INTERNAS
-### CROSS JOIN
+###     1. CROSS JOIN
 
 **Unión interna**
 Esta clausula crea todas las combinaciones posibles de dos tablas.
@@ -133,3 +134,57 @@ CROSS JOIN table2;
 ```
 
 Nota: La sintaxis utilizada en una consulta con esta clausula es mínima y no especifica `ON` o `USING` con `CROSS JOIN`.
+
+###     2. SELF JOIN
+**Unión interna**
+Uniones automáticas en donde la tabla se une a si misma para escenarios particulares.
+Pare este tipo de uniones no existe una sintaxis especifica, se puede utilizar las clausulas como `INNER JOIN` en donde el paso crucial es establecer los campos de unión correctamente dentro de la misma tabla.
+```sql
+SELECT 
+	p1.country AS country1,
+	p2.country AS country2,
+	p1.continent
+FROM prime_ministers AS p1
+INNER JOIN prime_ministers AS p2
+ON p1.continent = p2.continent
+LIMIT 10;
+```
+
+---
+---
+
+# CONJUNTO
+SQL tiene tres operaciones de conjuntos principales, `UNION`, `INTERSECT` y `EXCEPT`. 
+**La diferencia principal entre las uniones y conjuntos es:
+UNIONES: Comparan y fusionan tablas de izquierda a derecha.
+CONJUNTOS: Apilan los campos uno encima de otro***
+Para todas las operaciones de conjuntos el numero de columnas seleccionadas y sus respectivos tipos de datos deben ser idénticos. 
+![[Pasted image 20240519111445.png]]
+
+---
+
+### UNION
+**Toma dos tablas como entrada y devuelve todos los registros de ambas tablas.**
+```sql
+SELEC *
+FROM left_table
+UNION
+SELECT *
+FROM right_table;
+```
+![[Pasted image 20240519111947.png]]
+
+---
+
+### UNION ALL
+**Toma dos tablas como entrada y devuelve todos los registros incluidos los duplicados.**
+```sql
+SELEC *
+FROM left_table
+UNION ALL
+SELECT *
+FROM right_table;
+```
+![[Pasted image 20240519112146.png]]
+
+---
