@@ -19,7 +19,7 @@ JOIN table2 ON table1.column_name = table2.column_name;
 
 
 ---
-## UNIONES EXTERNAS
+## EXTERNAS JOIN [INNER | LEFT | RIGHT | FULL]
 ###     1. INNER JOIN
 
 **Combinación externa**
@@ -117,7 +117,7 @@ WHERE region LIKE 'M%esia';
 ```
 
 ---
-## UNIONES INTERNAS
+## INTERNAS JOIN [CROSS | SELF]
 ###     1. CROSS JOIN
 
 **Unión interna**
@@ -153,7 +153,9 @@ LIMIT 10;
 ---
 ---
 
-# CONJUNTO
+
+***
+## CONJUNTO [UNION | UNION ALL | INTERSECT | EXCEPT]
 SQL tiene tres operaciones de conjuntos principales, `UNION`, `INTERSECT` y `EXCEPT`. 
 **La diferencia principal entre las uniones y conjuntos es:
 UNIONES: Comparan y fusionan tablas de izquierda a derecha.
@@ -188,3 +190,60 @@ FROM right_table;
 ![[Pasted image 20240519112146.png]]
 
 ---
+
+### INTERSECT
+**Intersección entre tablas, solo los registros comunes entre ambas tablas**
+
+```sql
+SELECT id, val
+FROM left_table
+INTERSECT
+SELECT id, val
+FROM right_table;
+```
+
+![[Pasted image 20240521203749.png]]
+
+---
+
+### EXCEPT
+**EXCEPT nos permite identificar los registros que están presentes en una tabla, pero no en otra.**
+
+```sql
+SELECT monarch, country
+FROM monarchs
+EXCEPT
+SELECT prime_minister, country
+FROM prime_ministers;
+```
+
+![[Pasted image 20240521205427.png]]
+
+## CONSULTAS ANIDADAS
+### SEMI JOIN
+**Llamadas SUB-CONSULTAS, una combinación semi elige registros en la primera tabla donde se cumple una condición WHERE  en la segunda tabla**
+
+```sql
+SELECT presindent, country, continent
+FROM presidents
+WHERE country IN
+	(SELECT country
+	 FROM states
+	 WHERE indep_year < 1800);
+```
+
+![[Pasted image 20240521211534.png]]
+### ANTI JOIN
+**Al igual que las SEMI JOIN las ANTI JOIN son SUB-CONSULTAS que retornan todos los registros que no cumplen la condición WHERE con la clausula NOT antes de IN**
+
+```sql
+SELECT country, president
+FROM presidents
+WHERE continent LIKE '%America'
+	AND country NOT IN
+		(SELECT country
+		 FROM states
+		 WHERE indep_year < 1800);
+```
+
+![[Pasted image 20240521211504.png]]
